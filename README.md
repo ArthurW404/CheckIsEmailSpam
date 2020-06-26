@@ -13,6 +13,16 @@ Neural network were also used (Multi-layer perceptron (MLP) algorithm) with lowe
 2. Click on the checkSpam.ipynb file
 3. Under the kernal dropdown, click restart & run all
 
+#### Checking email input is spam
+##### Method 1: Using input.txt
+1. Open input.txt file and paste email into the file
+2. Run checkSpam.ipynb file, results can be found at the bottom
+
+##### Method2: Doing it in .ipynb file
+1. Click on the checkSpam.ipynb file 
+2. Scroll to bottom of page, replace email variable docstring with the email which needs to be checked 
+3. run file, results can be found at the bottom
+
 ### Dataset:
 https://archive.ics.uci.edu/ml/datasets/Spambase
 
