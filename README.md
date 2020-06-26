@@ -1,5 +1,5 @@
 # Check Spam
-A ML model to identify emails are spam or not, supervised machine learning (Classification)is used.
+A ML model to identify emails are spam or not, supervised machine learning (Classification) is used.
 
 ### results
 Models used from scikit-learn includes random forest Classifier and decision tree, which are getting 92 - 93% accuracy in detecting spam. However false positives (Email which is not spam being labelled as spam) are quite high.
